@@ -2,12 +2,14 @@
 
 App ver en "localhost:8083"
 
-Usuario:User
+user:User
+password: P4ssw0rd
 
-Contraseña: P4ssw0rd
-
-phpMyAdmin ver en "localhost:8081"
+phpMyAdmin  "localhost:8081"
 Jenkins localhost:8084
 
+to run this project 
+
+    docker-compose up -d
 
 
